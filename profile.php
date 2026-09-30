@@ -19,4 +19,27 @@ require 'includes/header.php';
         </div>
     </div>
 </section>
+
+<section class="section section-soft">
+    <div class="container">
+        <div class="section-heading">
+            <span class="eyebrow">Fokus Pembelajaran</span>
+            <h2>Apa yang akan kamu pelajari?</h2>
+        </div>
+        <div class="grid-3">
+            <article class="card">
+                <h3>Web Development</h3>
+                <p>Membangun aplikasi web dinamis menggunakan PHP native dan MySQL.</p>
+            </article>
+            <article class="card">
+                <h3>Version Control</h3>
+                <p>Mengelola riwayat kode dan kolaborasi tim menggunakan Git dan GitHub.</p>
+            </article>
+            <article class="card">
+                <h3>UI/UX Dasar</h3>
+                <p>Merancang antarmuka yang rapi, responsif, dan mudah digunakan oleh pengguna.</p>
+            </article>
+        </div>
+    </div>
+</section>
 <?php require 'includes/footer.php'; ?>
